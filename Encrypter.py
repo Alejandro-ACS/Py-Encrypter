@@ -596,9 +596,3 @@ for d in range(len(MensajeEncriptado)):
         EncriptadoFinal = EncriptadoFinal + " " + str(MensajeEncriptado[d])
 
 print(EncriptadoFinal)
-
-'''print(Mensaje)
-
-print(RangePi)
-
-print(pares)'''

@@ -6,7 +6,7 @@ You need to install the json and requests libraries with the nexts command.
 pip install random2
 ```
 # Run file
-Just download the compases.py file and execute the following command in the console.
+Just download the Encrypter.py file and execute the following command in the console.
 ```bash
 python Encrypter.py
 ```
